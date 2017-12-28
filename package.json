@@ -1,5 +1,5 @@
 {
-  "name": "yoshibot",
+  "name": "wolfbot",
   "version": "1.0.0",
   "description": "My First Bot!",
   "main": "app.js",
@@ -9,9 +9,9 @@
   "author": "YoshiMasterKing",
   "license": "ISC",
   "dependencies": {
-  "chalk": "^2.3.0",
-  "discord.js": "^11.2.1",
-  "fs": "0.0.1-security",
-  "moment": "^2.20.1",
+    "chalk": "^2.3.0",
+    "discord.js": "^11.2.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.20.1",
   }
 }
